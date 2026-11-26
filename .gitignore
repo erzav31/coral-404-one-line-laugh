@@ -1,0 +1,7 @@
+kit/
+kit.zip
+requirements.json
+transcripts*.tar.gz
+REPORT.md
+output/
+node_modules/
